@@ -1,6 +1,6 @@
 {
   "name": "sauceconnect-proxy",
-  "version": "4.7.1",
+  "version": "4.7.0",
   "description": "Node.js wrapper for SauceConnect Proxy",
   "main": "index.js",
   "bin": "index.js",
