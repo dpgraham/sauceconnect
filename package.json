@@ -1,6 +1,6 @@
 {
   "name": "sauceconnect",
-  "version": "4.7.1",
+  "version": "4.7.0",
   "description": "Node.js wrapper for SauceConnect Proxy",
   "main": "index.js",
   "bin": "index.js",
@@ -29,7 +29,7 @@
     "firewall",
     "e2e"
   ],
-  "author": "Christian Broamnn <christian@saucelabs.com>",
+  "author": "Daniel Graham <daniel.graham@saucelabs.com>",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/dpgraham/sauceconnect/issues"
