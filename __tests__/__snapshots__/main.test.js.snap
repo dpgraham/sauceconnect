@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`main .binWrapper should respect the SAUCECTL_INSTALL_BINARY wrapper 1`] = `
+exports[`main .binWrapper should respect the SAUCECONNECT_INSTALL_BINARY wrapper 1`] = `
 Array [
   Object {
     "arch": "",

@@ -1,6 +1,6 @@
-# Contributing to `node-saucectl`
+# Contributing to `node-sauceconnect`
 
-**Thank you for your interest in `node-saucectl`. Your contributions are highly welcome.**
+**Thank you for your interest in `node-sauceconnect`. Your contributions are highly welcome.**
 
 There are multiple ways of getting involved:
 
@@ -52,13 +52,13 @@ To build and work on this project you need to install:
 To get the code base, have [git](https://git-scm.com/downloads) installed and run:
 
 ```sh
-$ git clone git@github.com:saucelabs/node-saucectl.git
+$ git clone git@github.com:saucelabs/node-sauceconnect.git
 ```
 
 then ensure to install all project dependencies:
 
 ```sh
-$ cd node-saucectl
+$ cd node-sauceconnect
 $ npm install
 ```
 
@@ -84,7 +84,7 @@ git commit -s -m "adding X to change Y"
 
 ## Release Project
 
-The project is automatically released if the main [`saucectl`](https://github.com/saucelabs/saucectl) is being released. No manual actions necessary.
+The project is automatically released if the main [`sauceconnect`](https://github.com/saucelabs/sauceconnect) is being released. No manual actions necessary.
 
 ---
 

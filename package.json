@@ -1,7 +1,7 @@
 {
-  "name": "saucectl",
-  "version": "0.77.1",
-  "description": "Node.js wrapper for saucectl: Sauce Labs Testrunner Toolkit",
+  "name": "sauceconnect",
+  "version": "4.7.1",
+  "description": "Node.js wrapper for SauceConnect Proxy",
   "main": "index.js",
   "bin": "index.js",
   "scripts": {
@@ -19,22 +19,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saucelabs/node-saucectl.git"
+    "url": "git+https://github.com/dpgraham/node-sauceconnect.git"
   },
   "keywords": [
     "saucelabs",
     "sauce",
-    "testrunner",
-    "tests",
-    "e2e",
-    "toolkit"
+    "sauceconnect",
+    "proxy",
+    "firewall",
+    "e2e"
   ],
   "author": "Christian Broamnn <christian@saucelabs.com>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/saucelabs/node-saucectl/issues"
+    "url": "https://github.com/dpgraham/sauceconnect/issues"
   },
-  "homepage": "https://github.com/saucelabs/node-saucectl#readme",
+  "homepage": "https://github.com/dpgraham/sauceconnect#readme",
   "dependencies": {
     "bin-wrapper": "^4.1.0"
   },
