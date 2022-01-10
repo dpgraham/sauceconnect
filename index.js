@@ -2,9 +2,9 @@
 const { spawn } = require('child_process');
 const path = require('path');
 const BinWrapper = require('bin-wrapper');
-const packageJson = require('./package.json');
 
-const version = packageJson.version || process.env.SAUCECONNECT_VERSION;
+const version = '4.7.1';
+
 const defaultBinInstallBase = 'https://saucelabs.com/downloads';
 const binWrapper = (binInstallURL = null, binInstallBase = null) => {
     const bw = new BinWrapper();
