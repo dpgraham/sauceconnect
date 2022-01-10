@@ -1,5 +1,5 @@
 {
-  "name": "sauceconnect",
+  "name": "sauceconnect-proxy",
   "version": "4.7.0",
   "description": "Node.js wrapper for SauceConnect Proxy",
   "main": "index.js",
